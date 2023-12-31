@@ -1,11 +1,11 @@
 
 @font-face {
     font-family: montserrat;
-    src: url(/font-faces/Montserrat/Montserrat-VariableFont_wght.ttf);
+    src: url(./font-faces/Montserrat/Montserrat-VariableFont_wght.ttf);
 }
 @font-face {
     font-family: lora;
-    src: url(/font-faces/Lora/Lora-VariableFont_wght.ttf);
+    src: url(./font-faces/Lora/Lora-VariableFont_wght.ttf);
 }
 /* Home page */
 
@@ -702,7 +702,7 @@ footer ul {
     width: 100%;
     height: 40vh;
 
-    background-image: url(/images/images/roberto-nickson-396152\ kopi.jpg);
+    background-image: url(./images/images/roberto-nickson-396152\ kopi.jpg);
     background-size: cover;
     background-position: center;
 
@@ -841,7 +841,7 @@ footer ul {
     width: 100%;
     height: 40vh;
 
-    background-image: url(/images/images/billetto-editorial-334686\ kopi.jpg);
+    background-image: url(./images/images/billetto-editorial-334686\ kopi.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -894,7 +894,7 @@ footer ul {
 
 #donation-img {
     display: flex;
-    background-image: url(/images/images/bayu-prayuda-4ZVqqDAZD2o-unsplash.jpg);
+    background-image: url(./images/images/bayu-prayuda-4ZVqqDAZD2o-unsplash.jpg);
 
     background-size: cover;
 
@@ -936,7 +936,7 @@ footer ul {
 
 #volunteer-img {
     display: flex;
-    background-image: url(/images/images/luke-ellis-craven-400722.jpg);
+    background-image: url(./images/images/luke-ellis-craven-400722.jpg);
 
     background-size: cover;
 
@@ -979,7 +979,7 @@ footer ul {
 
 #internship-img {
     display: flex;
-    background-image: url(/images/images/people-219985_1280.jpg);
+    background-image: url(./images/images/people-219985_1280.jpg);
 
     background-size: cover;
 
@@ -1070,7 +1070,7 @@ footer ul {
 /* Exhibitions page */
 
 .exhibit {
-    background-image: url(/images/images/mavis-cw-164128\ kopi.jpg);
+    background-image: url(./images/images/mavis-cw-164128\ kopi.jpg);
     background-size: cover;
 
     display: block;
@@ -1108,7 +1108,7 @@ footer ul {
 }
 
 #cosmos-img {
-    background-image: url(/images/images/celso-405219.jpg);
+    background-image: url(./images/images/celso-405219.jpg);
     background-size: cover;
     background-position: center;
 
@@ -1140,7 +1140,7 @@ footer ul {
 }
 
 #evo-img {
-    background-image: url(/images/images/skeleton-414543_1920.jpg);
+    background-image: url(./images/images/skeleton-414543_1920.jpg);
     background-size: cover;
     background-position: center;
 
@@ -1172,7 +1172,7 @@ footer ul {
 }
 
 #med-img {
-    background-image: url(/images/images/heart-2607178_1920.jpg);
+    background-image: url(./images/images/heart-2607178_1920.jpg);
     background-size: cover;
     background-position: center;
 
@@ -1204,7 +1204,7 @@ footer ul {
 }
 
 #rob-img {
-    background-image: url(/images/images/samuel-zeller-158996.jpg);
+    background-image: url(./images/images/samuel-zeller-158996.jpg);
     background-size: cover;
     background-position: center;
 
@@ -1236,7 +1236,7 @@ footer ul {
 }
 
 #eco-img {
-    background-image: url(/images/images/guillaume-de-germain-6Xw9wMJyHus-unsplash.jpg);
+    background-image: url(./images/images/guillaume-de-germain-6Xw9wMJyHus-unsplash.jpg);
     background-size: cover;
     background-position: center;
 
@@ -1276,7 +1276,7 @@ footer ul {
 }
 
 #kids-img {
-    background-image: url(/images/images/reading-2762010_1280.jpg);
+    background-image: url(./images/images/reading-2762010_1280.jpg);
     background-size: cover;
     background-position: center;
 
@@ -1309,7 +1309,7 @@ footer ul {
 }
 
 #teach-img {
-    background-image: url(/images/images/tra-nguyen-TVSRWmnW8Us-unsplash.jpg);
+    background-image: url(./images/images/tra-nguyen-TVSRWmnW8Us-unsplash.jpg);
     background-size: cover;
     background-position: center;
 
@@ -1352,7 +1352,7 @@ footer ul {
 }
 
 #research-img {
-    background-image: url(/images/images/national-cancer-institute-BQGxNnyuFtU-unsplash.jpg);
+    background-image: url(./images/images/national-cancer-institute-BQGxNnyuFtU-unsplash.jpg);
     background-size: cover;
     background-position: center;
 
