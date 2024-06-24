@@ -4,11 +4,6 @@ Description
 Created a web page for Aurora Science Museum.
 Brand design, logo design, ui/ux design and web development of the page.
 
-You can add some bullet points if you'd like to:
-
-List item 1
-List item 2
-List item 3
 Built With
 
 Adobe XD
